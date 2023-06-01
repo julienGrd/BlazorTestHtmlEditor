@@ -10,7 +10,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MTk5NjQ4MkAzMjMxMmUzMjJlMzRQREpVa0dVMnZkWWhxUm9rcmMxU2RQc3lPemE5U3R6bUQ1UVFkbFhsUWRBPQ==");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("todo");
 
 builder.Services.AddSyncfusionBlazor();
 
